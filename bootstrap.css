@@ -1,0 +1,61 @@
+.container-fluid
+    {
+        background-color: silver;
+        height: 3000px;
+    }
+    .jumbotron
+    {
+        background-color: rgb(34, 36, 36);
+        color:rgb(185, 129, 238) ;
+    }
+    .box
+    {
+        width: 100%;
+        height: 200px;
+        position: relative;
+        top: 100px;
+    }   
+    .boxes
+    {
+        width: 200px;
+        height: 200px;
+        background-color: rgb(185, 129, 238);
+        border-radius: 10px;
+        margin: 15px;
+    }    
+    .btn 
+    {
+        background-color:rgb(185, 129, 238);
+        color:rgb(19, 20, 20);
+        border-radius: 3px;
+    }
+    .teacher
+    {
+        width: auto;
+        height: 600px;
+        margin-top: 150px;
+    }
+    .content
+    {
+        width: 200px;
+        height: 200px;
+        background-color:rgb(185, 129, 238) ;
+        border-radius: 7px;
+        margin: 10px;
+    }
+    .cards
+    {
+        width: 100%;
+        height: 600px;
+        margin-top: 150px;
+    }
+    .card
+    { 
+      background-color:rgb(185, 129, 238) ;
+      height: 200px;
+    }
+    .carousel
+    {
+        width: 500px;
+        margin: auto;
+    }

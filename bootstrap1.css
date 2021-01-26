@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container-fluid
+    {
+        width: 100%;
+        height: 1300px;
+     }
+    .header
+    {
+        width: 100%;
+        height: 100px;
+        background-color: rgb(235, 210, 157);
+     }
+     .main
+     {
+         width: 100%;
+         height: 1000px;
+     } 
+     .post
+     {
+         height: 1000px;
+         padding: 0;
+     }
+     .menu
+     {
+         height: 1000px;
+         width: 500px;
+         background-color: rgb(231, 173, 185);
+         padding: 0;
+     }
+     .post-1
+     {
+         height: 500px;
+         background-color: rgb(166, 240, 166);
+     } 
+     .post-2{
+         height: 500px;
+         background-color: rgb(134, 161, 236);
+     }
+     .footer
+     { 
+         width: 100%;
+         height: 100px;
+         background-color: rgb(235, 210, 157);
+     }

@@ -1,0 +1,25 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.container-fluid
+{ 
+ width: 100%;
+ height: 2000px;
+ background-color: rgb(136, 132, 132);
+ color: rgb(31, 28, 28);
+
+}   
+.books
+{
+ width: auto;
+ height: 1800px;
+ background: url(https://img.artlebedev.ru/everything_files/images/7072/loymina-1200.jpg.webp);
+ display: flex;
+ justify-content: space-around;
+} 
+.book
+{
+margin-top: 25px;
+}
